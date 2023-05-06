@@ -1,7 +1,5 @@
 # Gapstars_YC
 
-## Setting up the project
-
 # Clone and set up the repository
 ```
 $ git clone https://github.com/YanushaCooray/Gapstars_YC.git
