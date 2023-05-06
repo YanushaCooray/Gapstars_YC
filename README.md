@@ -20,5 +20,14 @@ npx playwright show-report
 
 ### Notes
 
-All the test cases are running in Chromium , Firefox & Webkit browsers
+* All the test cases are running in Chromium , Firefox & Webkit browsers
+
+* If you need to execute the test in headless mode , please follow the below given steps
+```
+   1- Open playwright.config.ts file
+   2- Change the value as 'true' in line number 26  (ex :  headless : true )
+```
+
+
+
 
